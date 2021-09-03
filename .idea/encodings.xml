@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/msb-dongbao-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/msb-dongbao-api/msb-dongbao-cart-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/msb-dongbao-api/msb-dongbao-cms-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/msb-dongbao-api/msb-dongbao-dictionary-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/msb-dongbao-api/msb-dongbao-oms-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/msb-dongbao-api/msb-dongbao-pay-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/msb-dongbao-api/msb-dongbao-pms-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/msb-dongbao-api/msb-dongbao-sms-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/msb-dongbao-api/msb-dongbao-ums-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/msb-dongbao-application" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/msb-dongbao-application/msb-dongbao-manager-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/msb-dongbao-application/msb-dongbao-manager-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/msb-dongbao-application/msb-dongbao-portal-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/msb-dongbao-application/msb-dongbao-portal-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/msb-dongbao-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/msb-dongbao-common/msb-dongbao-common-base" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/msb-dongbao-common/msb-dongbao-common-util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/msb-dongbao-generator/msb-dongbao-generator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/msb-dongbao-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/msb-dongbao-service/msb-dongbao-cart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/msb-dongbao-service/msb-dongbao-cms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/msb-dongbao-service/msb-dongbao-dictionary" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/msb-dongbao-service/msb-dongbao-oms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/msb-dongbao-service/msb-dongbao-pay" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/msb-dongbao-service/msb-dongbao-pms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/msb-dongbao-service/msb-dongbao-sms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/msb-dongbao-service/msb-dongbao-ums" charset="UTF-8" />
+  </component>
+</project>

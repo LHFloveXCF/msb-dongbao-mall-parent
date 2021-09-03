@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/msb-dongbao-common/msb-dongbao-common-base/pom.xml" />
+        <option value="$PROJECT_DIR$/msb-dongbao-common/msb-dongbao-common-util/pom.xml" />
+        <option value="$PROJECT_DIR$/msb-dongbao-generator/msb-dongbao-generator/pom.xml" />
+        <option value="$PROJECT_DIR$/msb-dongbao-application/msb-dongbao-manager-web/pom.xml" />
+        <option value="$PROJECT_DIR$/msb-dongbao-application/msb-dongbao-portal-web/pom.xml" />
+        <option value="$PROJECT_DIR$/msb-dongbao-api/msb-dongbao-oms-api/pom.xml" />
+        <option value="$PROJECT_DIR$/msb-dongbao-api/msb-dongbao-pms-api/pom.xml" />
+        <option value="$PROJECT_DIR$/msb-dongbao-api/msb-dongbao-ums-api/pom.xml" />
+        <option value="$PROJECT_DIR$/msb-dongbao-api/msb-dongbao-pay-api/pom.xml" />
+        <option value="$PROJECT_DIR$/msb-dongbao-api/msb-dongbao-cart-api/pom.xml" />
+        <option value="$PROJECT_DIR$/msb-dongbao-api/msb-dongbao-dictionary-api/pom.xml" />
+        <option value="$PROJECT_DIR$/msb-dongbao-api/msb-dongbao-sms-api/pom.xml" />
+        <option value="$PROJECT_DIR$/msb-dongbao-api/msb-dongbao-cms-api/pom.xml" />
+        <option value="$PROJECT_DIR$/msb-dongbao-service/msb-dongbao-oms/pom.xml" />
+        <option value="$PROJECT_DIR$/msb-dongbao-service/msb-dongbao-pms/pom.xml" />
+        <option value="$PROJECT_DIR$/msb-dongbao-service/msb-dongbao-ums/pom.xml" />
+        <option value="$PROJECT_DIR$/msb-dongbao-service/msb-dongbao-pay/pom.xml" />
+        <option value="$PROJECT_DIR$/msb-dongbao-service/msb-dongbao-cart/pom.xml" />
+        <option value="$PROJECT_DIR$/msb-dongbao-service/msb-dongbao-dictionary/pom.xml" />
+        <option value="$PROJECT_DIR$/msb-dongbao-service/msb-dongbao-sms/pom.xml" />
+        <option value="$PROJECT_DIR$/msb-dongbao-service/msb-dongbao-cms/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
