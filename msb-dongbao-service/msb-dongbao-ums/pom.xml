@@ -32,6 +32,11 @@
             <artifactId>msb-dongbao-ums-api</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
+        <dependency>
+            <groupId>com.msb</groupId>
+            <artifactId>msb-dongbao-common-base</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
         <!-- generate -->
         <dependency>
             <groupId>mysql</groupId>

@@ -9,7 +9,9 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
+    <groupId>com.msb</groupId>
     <artifactId>msb-dongbao-common</artifactId>
-
-
+    <version>0.0.1-SNAPSHOT</version>
+    <name>msb-dongbao-common</name>
+    <packaging>pom</packaging>
 </project>

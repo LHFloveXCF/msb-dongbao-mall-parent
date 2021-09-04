@@ -1,4 +1,4 @@
-package com.msb.msbdongbaocommonbase;
+package com.msb.dongbao.common.base;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

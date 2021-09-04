@@ -11,6 +11,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+import javax.validation.Valid;
+
 /**
  * <p>
  * 后台用户表 前端控制器
@@ -40,7 +42,8 @@ public class UmsMemberController {
     }
 
     @PostMapping("/register")
-    public String register2(@RequestBody UmsMemberRegisterDTO umsMemberRegisterDTO) {
+    public String register2(@RequestBody @Valid UmsMemberRegisterDTO umsMemberRegisterDTO) {
+//        int i= 1/0;
         service.insert(umsMemberRegisterDTO);
         return "success";
     }
